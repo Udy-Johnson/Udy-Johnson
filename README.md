@@ -11,7 +11,8 @@ I’m looking to collaborate on data related projects to help derive a data driv
 I am looking forward to new adventure full with hard work and more experience which make me learn more and more, I am just completing my Nanodegree and looking to apply my skills and experience.
 I’m looking for assist any upcoming data analyst to help get a bearing in the profession.
 
-### Connect with me: ![linked-in-alt](https://user-images.githubusercontent.com/99475772/200156295-6f9adb93-9938-43a7-acc1-2a7b62b04b96.svg)
+### Connect with me:
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uduakobong-johnson-50b9761a9/" height="30" width="40" />
 
-###Languages and Tools:
-![python-original](https://user-images.githubusercontent.com/99475772/200156629-6ba01a06-bd37-499e-a55d-0181c318ee98.svg)
+### Languages and Tools:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
