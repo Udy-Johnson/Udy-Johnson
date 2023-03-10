@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Uduakobong Johnson</h1>
 
-<h3 align="justify">I am Uduakobong Johnson, a Realtor in the making and a Data Analyst in the process.
+<h3 align="justify">I am Uduakobong Johnson, a Realtor in the making and a Data Analyst/Front-end Developer in the process.
 </h3> 
 <h3 align="justify">I have a good knowledge with:</h3>
 <ul>
   <ol> Data mining</ol> 
   <ol>Data Wrangling</ol>
   <ol>Data Viz</ol>
+  <ol>HTML/CSS<ol>
 </ul>
-<h3 align="justify">I’m currently learning more skills pertaining to analysing data in the Udacity Data Analysis Nanodegree. I’m looking to collaborate on data related projects to help derive a data driven decisions. I am looking forward to new adventure full with hard work and more experience which make me learn more and more, I am just completing my Nanodegree and looking to apply my skills and experience.</h3>
+<h3 align="justify">I’m currently learning more skills pertaining to analysing data on the Udacity Data Analysis Nanodegree and Front-end development on Udemy. I’m looking to collaborate on data related and front-end related projects to help derive a data driven decisions and build amazing extraordinary websites. I am looking forward to new adventure full with hard work and more experience which make me learn more and more, I am just completing my Nanodegree and looking to apply my skills and experience.</h3>
 
 <h3 align="justify">I’m looking forward to assist any upcoming data analyst to help get a bearing in the profession.</h3>
 
